@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/tr4kthebox/esxi-respawn?color=darckgreen&logo=Linux&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/tr4kthebox/esxi-respawn?label=Size&logo=github)
+![GitHub](https://img.shields.io/github/license/tr4kthebox/esxi-respawn?label=Licence)
+
 # ESXi Respawn.
 ### _Massive backup and restore of VMware ESXi host configuration._
 
