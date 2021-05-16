@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/tr4kthebox/esxi-respawn?color=darckgreen&logo=Linux&logoColor=white)
-![GitHub repo size](https://img.shields.io/github/repo-size/tr4kthebox/esxi-respawn?label=Size&logo=github)
-![GitHub](https://img.shields.io/github/license/tr4kthebox/esxi-respawn?label=Licence)
+![GitHub top language](https://img.shields.io/github/languages/top/usrbinbrain/esxi-respawn?color=darckgreen&logo=Linux&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/usrbinbrain/esxi-respawn?label=Size&logo=github)
+![GitHub](https://img.shields.io/github/license/usrbinbrain/esxi-respawn?label=Licence)
 
 # ESXi Respawn.
 ### _Massive backup and restore of VMware ESXi host configuration._
@@ -14,7 +14,7 @@ Execute the following commands to deploy the tool.
 
 ```bash
 # Clone the repo.
-git clone https://github.com/tr4kthebox/esxi-respawn.git
+git clone https://github.com/usrbinbrain/esxi-respawn.git
 
 # Go to the directory and add the execute permissions to the scripts.
 cd esxi-respawn && chmod +x esxi-*
